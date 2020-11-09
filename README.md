@@ -1,10 +1,14 @@
+<img align="right" width="275px" src="https://i.imgur.com/Q261hDN.png">
+
 ### 👋 Hi I'm [Alex](https://github.com/Ace5584)  I am a AI software engineer focusing on deep learning with TensorFlow
-### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics.
+### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics
 ### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
-### 🎥 I am a Marvel & DC fan, And I LOVE TV Shows! Current Favourite Shows: 
+### 🎥 I am a Marvel, DC & Star Wars fan, And I LOVE TV Shows! Current Favourite Shows: 
 - Lucifer
 - The Queen's Gambit
 - The Flash
+- The Mandalorian
+
 ## 
 - <img alt="discord" width="21px" align="top" src="https://svgshare.com/i/Qdg.svg"> My Discord: ACE#8849
 - 📫 My gmail: acealexlai@gmail.com 
