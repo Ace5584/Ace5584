@@ -3,6 +3,7 @@
 ### 👋 Hi I'm [Alex](https://github.com/Ace5584)  I am a AI software engineer focusing on deep learning with TensorFlow
 ### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics
 ### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
+### Love Tactile Swtiches for programming, using Keychron K8 right now
 ### 🎥 I am a Marvel, DC & Star Wars fan, And I LOVE TV Shows! Current Favourite Shows: 
 - Lucifer
 - The Queen's Gambit
