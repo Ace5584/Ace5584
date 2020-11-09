@@ -1,5 +1,12 @@
-### Hi there 👋
+### 👋 Hi I'm [Alex](https://github.com/Ace5584)  I am a AI software engineer focusing on deep learning with TensorFlow
+### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics.
+### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
+<br>
+- <img alt="discord" width="21px" align="top" src="https://svgshare.com/i/Qdg.svg"> My Discord: ACE#8849
+- 📫 My gmail: acealexlai@gmail.com 
+- 🌱 Currently Learning: Machine Learning With TensorFlow Using Python
 
+<img src="https://github-readme-stats.vercel.app/api?username=ace5584&show_icons=true&hide_border=true">
 <!--
 **Ace5584/Ace5584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
