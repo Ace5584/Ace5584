@@ -15,7 +15,7 @@
 - 📫 My gmail: acealexlai@gmail.com 
 - 🌱 Currently Learning: Machine Learning With TensorFlow Using Python
 
-<img src="https://github-readme-stats.vercel.app/api?username=ace5584&show_icons=true&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=ace5584&show_icons=true&hide_border=true&count_private=true">
 <!--
 **Ace5584/Ace5584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
