@@ -1,6 +1,14 @@
 <img align="right" width="275px" src="https://i.imgur.com/Q261hDN.png">
 
-### 👋 Hi I'm [Alex](https://github.com/Ace5584)  I am a AI software engineer focusing on deep learning with TensorFlow
+### 👋 Hi I'm [Alex](https://github.com/Ace5584) 
+
+![Python application](https://github.com/rafnixg/rafnixg/workflows/Python%20application/badge.svg?branch=master&event=schedule)
+![GitHub followers](https://img.shields.io/github/followers/ace5584?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=ace5584.ace5584)
+[![](https://img.shields.io/badge/Gmail-alexlaiace666%40gmail.com-red)](mailto:acealexlai666@gmail.com)
+
+
+### I am a AI software engineer focusing on deep learning with TensorFlow
 ### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics
 ### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
 ### Love Tactile Swtiches for programming, using Keychron K8 right now
@@ -15,18 +23,7 @@
 - 📫 My gmail: acealexlai@gmail.com 
 - 🌱 Currently Learning: Machine Learning With TensorFlow Using Python
 
-<img src="https://github-readme-stats.vercel.app/api?username=ace5584&show_icons=true&hide_border=true&count_private=true">
-<!--
-**Ace5584/Ace5584** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=ace5584&show_icons=true&hide_border=true&count_private=true" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace5584" align="right">
