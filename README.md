@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/Gmail-alexlaiace666%40gmail.com-red)](mailto:acealexlai666@gmail.com)
 
 
-### I am a AI software engineer focusing on deep learning with TensorFlow
+### I am a Google TensorFlow Certified Software Engineer
 ### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics
 ### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
 ### Love Tactile Swtiches for programming, using Keychron K8 right now
@@ -21,7 +21,6 @@
 ## 
 - <img alt="discord" width="21px" align="top" src="https://svgshare.com/i/Qdg.svg"> My Discord: ACE#8849
 - 📫 My gmail: acealexlai@gmail.com 
-- 🌱 Currently Learning: Machine Learning With TensorFlow Using Python
 
 <img src="https://github-readme-stats.vercel.app/api?username=ace5584&show_icons=true&hide_border=true&count_private=true" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace5584">
