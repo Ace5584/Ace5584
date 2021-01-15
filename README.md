@@ -1,4 +1,4 @@
-<img align="right" width="275px" src="https://i.imgur.com/Q261hDN.png">
+<img align="right" width="300px" src="https://i.imgur.com/hakzdXh.png">
 
 ### 👋 Hi I'm [Alex](https://github.com/Ace5584) 
 
@@ -9,10 +9,10 @@
 
 
 ### I am a Google TensorFlow Certified Software Engineer
-
-<img align="center" width="500px" src="https://i.imgur.com/EBDCFlc.png">
-
 ### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics
+
+<img align="right" width="275px" src="https://i.imgur.com/Q261hDN.png">
+
 ### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
 ### Love Tactile Swtiches for programming, using Drop ALT with Halo True Switches
 ### 🎥 I am a Marvel, DC & Star Wars fan, And I LOVE TV Shows! Current Favourite Shows: 
@@ -27,3 +27,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ace5584&show_icons=true&hide_border=true&count_private=true" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace5584">
+
