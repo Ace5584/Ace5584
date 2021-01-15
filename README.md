@@ -10,10 +10,10 @@
 
 ### I am a Google TensorFlow Certified Software Engineer
 ### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics
-
-<img align="right" width="275px" src="https://i.imgur.com/Q261hDN.png">
-
 ### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
+
+<img align="right" width="200px" src="https://i.imgur.com/Q261hDN.png">
+
 ### Love Tactile Swtiches for programming, using Drop ALT with Halo True Switches
 ### 🎥 I am a Marvel, DC & Star Wars fan, And I LOVE TV Shows! Current Favourite Shows: 
 - Lucifer
