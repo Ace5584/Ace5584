@@ -10,16 +10,12 @@
 
 ### I am a Google TensorFlow Certified Software Engineer
 ### I am a part of an FRC team located in Melbourne, Australia, we are Team 5584 IC Robotics
-### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, GO
+### Speaks multiple languages including: C++, C#, C, Python, JavaScript, HTML, CSS, Swift, Java
 
 <img align="right" width="200px" src="https://i.imgur.com/Q261hDN.png">
 
-### Love Tactile Swtiches for programming, using Drop ALT with Halo True Switches
-### 🎥 I am a Marvel, DC & Star Wars fan, And I LOVE TV Shows! Current Favourite Shows: 
-- Lucifer
-- The Queen's Gambit
-- The Flash
-- The Mandalorian
+### Using Tactile Swtiches for programming, using Drop ALT with Halo True Switches
+### 🎥 I am a Marvel, DC & Star Wars fan, And I LOVE TV Shows!
 
 ## 
 - <img alt="discord" width="21px" align="top" src="https://svgshare.com/i/Qdg.svg"> My Discord: ACE#8849
