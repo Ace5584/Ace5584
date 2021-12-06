@@ -15,7 +15,6 @@
 <img align="right" width="200px" src="https://i.imgur.com/Q261hDN.png">
 
 ### Using Tactile Swtiches for programming, using Drop ALT with Halo True Switches
-### 🎥 I am a Marvel, DC & Star Wars fan, And I LOVE TV Shows!
 
 ## 
 - <img alt="discord" width="21px" align="top" src="https://svgshare.com/i/Qdg.svg"> My Discord: ACE#8849
